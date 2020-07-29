@@ -1,2 +1,2 @@
-call.error("Halp, plz!")
-console.log("Log dis, plz")
+call.error("Halp, plz!");
+console.log("Log dis, plz");
